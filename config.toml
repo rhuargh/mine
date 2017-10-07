@@ -3,7 +3,7 @@ baseurl = "https://rhuargh.github.io/mine/"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
-title = "Hugo Cactus Theme"
+title = "My first working Hugo website"
 theme = "cactus"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -11,11 +11,11 @@ googleAnalytics = ""
 disqusShortname = "spf13"
 
 [params]
-	name = "John Doe"
-	description = "Describe your website"
-	bio = "Blogger & Programmer"
+	name = "Anthony Robin Schneider"
+	description = "This website is a way for me to test out Hugo locally and launching it online through github pages"
+	bio = "I'm an Opera Singer who also codes!"
 	# Enter optionally your twitter account
-	twitter = "Your Twitter account"
+	twitter = "@arschneider"
 	enableRSS = true
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
